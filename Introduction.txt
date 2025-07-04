@@ -4,4 +4,4 @@ git merge
 
 git conflict git conflict
 
-git fetch
+git fetch git fetch
