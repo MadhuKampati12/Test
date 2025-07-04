@@ -3,3 +3,5 @@ Introduction
 git merge
 
 git conflict git conflict
+
+git fetch
